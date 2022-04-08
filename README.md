@@ -1,4 +1,6 @@
-Blender-GANeuralNet
+GANeuralNet
 ===================
 
-Experiement with genetic algorythm and neural network ( coded in cython ) in Blender Game Engine
+JavaScript implementation of Blender-GANeuralNet
+
+Experiement with genetic algorythm and neural network.
